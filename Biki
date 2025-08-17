@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2c2894d8b84663c0",            // Sample ANDROID_ID
+    "username": "youruser",
+    "password": "demo@123",
+    "expiresAt": "2026-01-01",           // YYYY-MM-DD, expiry date
+    "allowOffline": false
+  },
+  {
+    "id": "6fe986ee2e923ad7",
+    "username": "test2",
+    "password": "hello22",
+    "expiresAt": "2025-12-01",
+    "allowOffline": true
+  }
+]
