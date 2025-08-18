@@ -1,1 +1,1 @@
-ON: We are upgrading our server, please try again after 1 hour.
+OF: We are upgrading our server, please try again after 1 hour.
