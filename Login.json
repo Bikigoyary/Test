@@ -4,6 +4,6 @@
     "username": "test",
     "password": "12345",
     "expiresAt": "2025-09-21",
-    "loginLimit": 50
+    "loginLimit": 5
   }
 ]
