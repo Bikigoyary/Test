@@ -20,7 +20,7 @@
         "password": "Johny@123",
         "allowOffline": false,
         "expiresAt": "2025-09-30",
-        "loginLimit": 3
+        "loginLimit": 8
     },
     {
         "id": "c2dddc8dcd6b1626",
