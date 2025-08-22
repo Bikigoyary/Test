@@ -1,2 +1,1 @@
-OF: "5min Roba kam kri asu
-App is under maintenance. Please wait for 15 min. Thank you!"
+ON: "App is under maintenance. Please wait for 15 min. Thank you!"
