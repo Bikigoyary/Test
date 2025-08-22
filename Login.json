@@ -36,7 +36,7 @@
         "password": "Ajay@123",
         "allowOffline": false,
         "expiresAt": "2025-08-25",
-        "loginLimit": 10
+        "loginLimit": 15
     },
     {
         "id": "d687e21a8e0c2827",
@@ -44,7 +44,7 @@
         "password": "Ratul@123",
         "allowOffline": false,
         "expiresAt": "2025-08-30",
-        "loginLimit": 2
+        "loginLimit": 3
     },
     {
         "id": "048c0df23f4c7784",
