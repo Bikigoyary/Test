@@ -3,9 +3,9 @@
         "username": "Biki",
         "password": "Biki@123",
         "allowOffline": false,
-        "expiresAt": "2025-08-25",
+        "expiresAt": "2025-08-30",
         "loginLimit": 20,
-        "sessionTimeout": 5
+        "sessionTimeout": 60
     },
      {
         "id": "5981d222cd9a9576",
@@ -13,7 +13,8 @@
         "password": "Dipk@123",
         "allowOffline": false,
         "expiresAt": "2025-08-25",
-        "loginLimit": 10
+        "loginLimit": 10,
+        "sessionTimeout": 300
     },
     {
         "id": "ac3647d9c29ddbd8",
@@ -21,7 +22,8 @@
         "password": "Shymanta@123",
         "allowOffline": false,
         "expiresAt": "2025-08-30",
-        "loginLimit": 10
+        "loginLimit": 10,
+        "sessionTimeout": 180
     },
     {
         "id": "f6701c8ab1b08911",
@@ -29,7 +31,8 @@
         "password": "Johny@123",
         "allowOffline": false,
         "expiresAt": "2025-09-30",
-        "loginLimit": 8
+        "loginLimit": 10,
+        "sessionTimeout": 180
     },
     {
         "id": "c2dddc8dcd6b1626",
@@ -37,7 +40,8 @@
         "password": "Korna@123",
         "allowOffline": false,
         "expiresAt": "2025-08-30",
-        "loginLimit": 10
+        "loginLimit": 6,
+        "sessionTimeout": 180
     },
     {
         "id": "de3c4be9f056a156",
@@ -45,7 +49,8 @@
         "password": "Ajay@123",
         "allowOffline": false,
         "expiresAt": "2025-08-25",
-        "loginLimit": 40
+        "loginLimit": 10,
+        "sessionTimeout": 180
     },
     {
         "id": "d687e21a8e0c2827",
@@ -53,7 +58,8 @@
         "password": "Ratul@123",
         "allowOffline": false,
         "expiresAt": "2025-08-30",
-        "loginLimit": 3
+        "loginLimit": 2,
+        "sessionTimeout": 180
     },
     {
         "id": "048c0df23f4c7784",
@@ -61,7 +67,8 @@
         "password": "Nika@123",
         "allowOffline": true,
         "expiresAt": "2025-09-23",
-        "loginLimit": 4
+        "loginLimit": 20,
+        "sessionTimeout": 0
     },
     {
         "id": "bf891a3662944bde",
@@ -69,6 +76,7 @@
         "password": "Phukan@123",
         "allowOffline": false,
         "expiresAt": "2025-01-30",
-        "loginLimit": 1
+        "loginLimit": 1,
+        "sessionTimeout": 5
     }
 ]
