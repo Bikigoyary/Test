@@ -1,1 +1,1 @@
-ON: "App is under maintenance. Please wait for 15 min. Thank you!"
+OF: "App is under maintenance. Please wait for 15 min. Thank you!"
