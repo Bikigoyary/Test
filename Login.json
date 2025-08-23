@@ -13,7 +13,7 @@
         "password": "Dipk@123",
         "allowOffline": false,
         "expiresAt": "2025-08-25",
-        "loginLimit": 10,
+        "loginLimit": 20,
         "sessionTimeout": 300
     },
     {
