@@ -49,8 +49,8 @@
         "password": "Ajay@123",
         "allowOffline": false,
         "expiresAt": "2025-08-25",
-        "loginLimit": 20,
-        "sessionTimeout": 180
+        "loginLimit": 25,
+        "sessionTimeout": 240
     },
     {
         "id": "d687e21a8e0c2827",
