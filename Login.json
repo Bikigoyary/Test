@@ -12,7 +12,7 @@
         "username": "Dipk",
         "password": "Dipk@123",
         "allowOffline": false,
-        "expiresAt": "2025-08-25",
+        "expiresAt": "2025-08-30",
         "loginLimit": 20,
         "sessionTimeout": 300
     },
