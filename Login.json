@@ -67,8 +67,8 @@
         "password": "Prasanna@123",
         "allowOffline": false,
         "expiresAt": "2025-08-30",
-        "loginLimit": 20,
-        "sessionTimeout": 120
+        "loginLimit": 30,
+        "sessionTimeout": 300
     },
     {
         "id": "048c0df23f4c7784",
