@@ -61,6 +61,15 @@
         "loginLimit": 2,
         "sessionTimeout": 180
     },
+     {
+        "id": "6200055cd01b46cb",
+        "username": "Prasatha",
+        "password": "Prasantha@123",
+        "allowOffline": false,
+        "expiresAt": "2025-08-30",
+        "loginLimit": 10,
+        "sessionTimeout": 120
+    },
     {
         "id": "048c0df23f4c7784",
         "username": "Nika",
