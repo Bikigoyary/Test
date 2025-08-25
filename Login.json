@@ -5,7 +5,7 @@
         "allowOffline": false,
         "expiresAt": "2025-08-30",
         "loginLimit": 50,
-        "sessionTimeout": 0
+        "sessionTimeout": 300
     },
      {
         "id": "5981d222cd9a9576",
@@ -23,7 +23,7 @@
         "allowOffline": false,
         "expiresAt": "2025-08-30",
         "loginLimit": 10,
-        "sessionTimeout": 60
+        "sessionTimeout": 120
     },
     {
         "id": "f6701c8ab1b08911",
@@ -49,7 +49,7 @@
         "password": "Ajay@123",
         "allowOffline": false,
         "expiresAt": "2025-08-25",
-        "loginLimit": 25,
+        "loginLimit": 20,
         "sessionTimeout": 240
     },
     {
@@ -67,8 +67,8 @@
         "password": "Prasanna@123",
         "allowOffline": false,
         "expiresAt": "2025-08-30",
-        "loginLimit": 30,
-        "sessionTimeout": 300
+        "loginLimit": 15,
+        "sessionTimeout": 180
     },
     {
         "id": "048c0df23f4c7784",
