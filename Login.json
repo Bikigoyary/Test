@@ -48,7 +48,7 @@
         "username": "Ajay",
         "password": "Ajay@123",
         "allowOffline": false,
-        "expiresAt": "2025-08-31",
+        "expiresAt": "2025-05-31",
         "loginLimit": 12,
         "sessionTimeout": 240
     },
@@ -66,9 +66,9 @@
         "username": "Prasanna",
         "password": "Prasanna@123",
         "allowOffline": false,
-        "expiresAt": "2025-01-30",
-        "loginLimit": 1,
-        "sessionTimeout": 1
+        "expiresAt": "2025-08-31",
+        "loginLimit": 15,
+        "sessionTimeout": 120
     },
     {
         "id": "048c0df23f4c7784",
