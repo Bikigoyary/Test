@@ -48,7 +48,7 @@
         "username": "Ajay",
         "password": "Ajay@123",
         "allowOffline": false,
-        "expiresAt": "2025-08-31",
+        "expiresAt": "2025-09-30",
         "loginLimit": 25,
         "sessionTimeout": 240
     },
