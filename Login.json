@@ -31,7 +31,7 @@
         "password": "Rupam@123",
         "allowOffline": false,
         "expiresAt": "2025-09-30",
-        "loginLimit": 15,
+        "loginLimit": 20,
         "sessionTimeout": 180
     },
     {
