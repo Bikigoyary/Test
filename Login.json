@@ -58,7 +58,7 @@
         "password": "Ratul@123",
         "allowOffline": false,
         "expiresAt": "2025-09-31",
-        "loginLimit": 2,
+        "loginLimit": 4,
         "sessionTimeout": 180
     },
      {
