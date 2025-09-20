@@ -67,8 +67,8 @@
         "password": "Nishanta@123",
         "allowOffline": false,
         "expiresAt": "2025-09-31",
-        "loginLimit": 5,
-        "sessionTimeout": 180
+        "loginLimit": 0,
+        "sessionTimeout": 0
     },
     {
         "id": "048c0df23f4c7784",
