@@ -4,7 +4,7 @@
         "password": "Biki@123",
         "allowOffline": false,
         "expiresAt": "2025-09-30",
-        "loginLimit": 100,
+        "loginLimit": 0,
         "sessionTimeout": 0
     },
      {
