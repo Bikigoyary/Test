@@ -80,12 +80,12 @@
         "sessionTimeout": 0
     },
     {
-        "id": "bf891a3662944bde",
-        "username": "Phukan",
-        "password": "Phukan@123",
+        "id": "85774eb937e45e89",
+        "username": "8638913794",
+        "password": "Riyajul@123",
         "allowOffline": false,
-        "expiresAt": "2025-01-30",
-        "loginLimit": 1,
-        "sessionTimeout": 5
+        "expiresAt": "2025-09-30",
+        "loginLimit": 20,
+        "sessionTimeout": 300
     }
 ]
