@@ -39,9 +39,9 @@
         "username": "Korna",
         "password": "Korna@123",
         "allowOffline": false,
-        "expiresAt": "2025-09-30",
+        "expiresAt": "2025-10-15",
         "loginLimit": 8,
-        "sessionTimeout": 180
+        "sessionTimeout": 240
     },
     {
         "id": "de3c4be9f056a156",
