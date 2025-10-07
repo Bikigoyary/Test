@@ -1,1 +1,1 @@
-OF:"The app version has expired. Please wait until 8:00 PM. Thank you!"
+ON:"The app running on maintenance. Thank you!"
