@@ -1,1 +1,1 @@
-ON:"The app running on maintenance. Thank you!"
+OF:"The app running on maintenance. Thank you!"
